@@ -1,6 +1,6 @@
 {
   "name": "@1kemalozturk/fastify-gcs",
-  "version": "6.9.4",
+  "version": "6.9.5",
   "description": "Fastify plugin that exposes GCP Cloud Storage.",
   "main": "plugin.js",
   "repository": {
