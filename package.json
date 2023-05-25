@@ -1,6 +1,6 @@
 {
   "name": "@1kemalozturk/fastify-gcs",
-  "version": "6.9.5",
+  "version": "6.10.1",
   "description": "Fastify plugin that exposes GCP Cloud Storage.",
   "main": "plugin.js",
   "repository": {
@@ -9,10 +9,10 @@
   },
   "license": "ISC",
   "dependencies": {
-    "@google-cloud/storage": "6.9.5",
+    "@google-cloud/storage": "6.10.1",
     "fastify-plugin": "4.5.0"
   },
   "devDependencies": {
-    "fastify": "^4.15.0"
+    "fastify": "^4.17.0"
   }
 }
